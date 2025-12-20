@@ -13,7 +13,7 @@ I am a Computer Science student with a strong passion for data analytics and its
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.tripadvisor.com/AttractionProductReview-g293974-d27513150-Resurrection_Ertugrul_and_Establishment_Osman_Movie_Film_Set_Tour-Istanbul.html)"  />
+<img align="right" height="150" src="images/ertugrul-set.jpg" />
 
 ###
 
