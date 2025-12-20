@@ -13,7 +13,7 @@ I am a Computer Science student with a strong passion for data analytics and its
 
 ###
 
-<img align="right" height="150" src="images/ertugrul-set.jpg" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/shehapsherif11-bit/shehapsherif11-bit/main/images/ertugrul-set.jpg" />
 
 ###
 
