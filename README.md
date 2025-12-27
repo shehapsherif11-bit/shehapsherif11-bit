@@ -38,8 +38,8 @@ I have a solid foundation in **Python, SQL, Power BI, DAX, and Excel**, enabling
 
 My experience spans **Big Data training, market research, audience segmentation, performance analytics**, and leadership roles in **PR and project management**, giving me a strong analytical and business-oriented mindset.
 
-- Skills: Data Analysis - Data Analytics - Statistics - Probability - Linear Algebra - Data Cleaning - Data Wrangling - Data Manipulation - Exploratory Data Analysis (EDA)
-Data Visualization - Business Intelligence - Python - SQL - Power BI - DAX - Excel - Big Data Fundamentals - Hadoop - Spark
+Skills: Data Analysis - Data Analytics - Statistics - Probability - Data Cleaning - Data Manipulation - Exploratory Data Analysis (EDA)
+Data Visualization - Python - SQL - Power BI - DAX - Excel - Big Data Fundamentals - Hadoop - Spark
 
 - 📫 **Reach me at:** shehapsherif11@gmail.com  
 
