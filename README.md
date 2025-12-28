@@ -81,9 +81,6 @@ Data Visualization - Python - SQL - Power BI - DAX - Excel - Big Data Fundamenta
   <img width="12"/>
 </div>
 
-
-
-### Tools & Platforms
 ### 🛠️ Tools & Platforms
 <div align="left">
   <!-- Power BI (Yellow) -->
